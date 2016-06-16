@@ -14,6 +14,10 @@ This is a sequelized version of the Burger App! It has all of the similar functi
 2. The burger will then appear under "Your Burger Menu" with the option to Eat it!
 3. When Eat it! is selected the burger is devoured and moved to "You Ate It!"
 
+![]({{site.baseurl}}/http://i.makeagif.com/media/6-16-2016/gpyY2x.gif)
+
+
+
 
 
 
